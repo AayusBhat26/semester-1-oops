@@ -1,5 +1,3 @@
-Here's a README template for your GitHub repository:
-
 ---
 
 # MCA First Semester Java Lab Work
